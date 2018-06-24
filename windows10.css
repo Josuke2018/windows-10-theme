@@ -43,6 +43,21 @@ background: var(--background-image);background-position: center;;background-size
     position: relative;
     width: 400px;
 }
+.article-FleDq5 {
+    -webkit-box-sizing: border-box;
+    background-color: rgba(32, 34, 37, 0);
+    border-radius: 5px;
+    bottom: 0;
+    box-sizing: border-box;
+    height: 100%;
+    left: 0;
+    overflow: hidden;
+    padding: 20px;
+    position: relative;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
 div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteBody"] {
     width: 350px;
     padding: 0;
